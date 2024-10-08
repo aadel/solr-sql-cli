@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+prompt-toolkit = "*"
+pygments = "*"
+sqlalchemy-solr = "*"
+tableprint = "*"
+click = "*"
+
+[dev-packages]
+pre-commit = "*"
+pylint = "*"
+
+[requires]
+python_version = "3.10"
