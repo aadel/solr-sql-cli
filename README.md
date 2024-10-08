@@ -2,7 +2,7 @@
 
 Solr SQL command line that supports auto-completion and exporting query result.
 
-![demo](https://github.com/aadel/solr-sql-cli/blob/main/media/ssc.mp4?raw=true)
+![demo](https://github.com/aadel/solr-sql-cli/blob/main/media/ssc.gif)
 
 ## Requirements
 
